@@ -2,7 +2,7 @@
 // Passando os dados obtidos pelo formulário para as variáveis abaixo
 $nomeremetente = $_POST['name'];
 $emailremetente = trim($_POST['email']);
-$emaildestinatario = 'contato@pattyweb.com.br';// Digite seu e-mail aqui, lem
+$emaildestinatario = 'contato@seuhost.com.br';// Digite seu e-mail aqui, lem
 $assunto = $_POST['assunto'];
 $mensagem = $_POST['message'];
         
